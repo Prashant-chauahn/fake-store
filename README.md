@@ -1,0 +1,1 @@
+this is a hard coded fake-store.Without dynamic operations, i will add more functionality with the time.
